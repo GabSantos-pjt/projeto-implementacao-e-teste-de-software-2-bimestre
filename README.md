@@ -5,12 +5,12 @@ Atividades práticas de TDD (Test-Driven Development) da disciplina.
 | Semana | Atividade | Pasta |
 |---|---|---|
 | 10 | Bubble Sort — Prática de TDD | [`semana10-bubble-sort`](semana10-bubble-sort) |
-| 11 | _em breve_ | — |
+| 11 | Testes de integração com Spring Boot e JUnit 5 | [`semana11-integracao-springboot`](semana11-integracao-springboot) |
 | 14 | _em breve_ | — |
 
 ## Como executar
 
-Cada atividade é um projeto Maven independente (Java 17 e JUnit 5), baseado no material da disciplina em [JoaoChoma/teste_software_2026](https://github.com/JoaoChoma/teste_software_2026):
+Cada atividade é um projeto Maven independente (Java 17, JUnit 5), baseado no material da disciplina em [JoaoChoma/teste_software_2026](https://github.com/JoaoChoma/teste_software_2026):
 
 ```bash
 cd semana10-bubble-sort
